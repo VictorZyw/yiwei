@@ -1,8 +1,8 @@
 # Site settings
 title: Let's know Yiwei
 description: "A blog about Yiwei Zhang."
-baseurl: "/yiwei/" # for test: remove string '/space-jekyll-template' to ''
-url: "https://victorzyw.github.io/yiwei/" #https://victorzyw.github.io/Insomnia-Dungeon/
+baseurl: "/yiwei.github.io/" # for "test: remove string '/space-jekyll-template' to ''
+url: "https://yiwei.beijinger.space" # https://victorzyw.github.io/Insomnia-Dungeon/
 
 # User settings
 username: Yiwei Zhang
@@ -18,7 +18,7 @@ profile_picture: https://github.com/zywkloo/muse.github.io/raw/master/assets/img
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
-
+https://victorzyw.github.io/yiwei/
 # html minify
 compress_html:
   clippings: all
