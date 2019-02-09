@@ -18,7 +18,6 @@ profile_picture: https://github.com/zywkloo/muse.github.io/raw/master/assets/img
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
-https://victorzyw.github.io/yiwei.github.io/
 # html minify
 compress_html:
   clippings: all
