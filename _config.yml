@@ -1,8 +1,8 @@
 # Site settings
 title: Let's know Yiwei
 description: "A blog about Yiwei Zhang."
-baseurl: "/yiwei" # for test: remove string '/space-jekyll-template' to ''
-url: "http://VictorZyw.github.io/yiwei" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+baseurl: "/yiwei/" # for test: remove string '/space-jekyll-template' to ''
+url: "http://VictorZyw.github.io/yiwei/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 
 # User settings
 username: Yiwei Zhang
