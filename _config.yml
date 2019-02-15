@@ -1,7 +1,7 @@
 # Site settings
 title: Let's know Yiwei
 description: "A blog about Yiwei Zhang."
-baseurl: "yiwei" # for "test: remove string '/space-jekyll-template' to ''
+baseurl: "/yiwei" # for "test: remove string '/space-jekyll-template' to ''
 url: "https://beijinger.space" # https://victorzyw.github.io/Insomnia-Dungeon/
 
 # User settings
