@@ -2,7 +2,7 @@
 title: Let's know Yiwei
 description: "A blog about Yiwei Zhang."
 baseurl: "/yiwei" # for "test: remove string '/space-jekyll-template' to ''
-url: "https://victorzyw.github.io/yiwei/" # https://victorzyw.github.io/Insomnia-Dungeon/
+url: "https://victorzyw.github.io/" # https://victorzyw.github.io/Insomnia-Dungeon/
 
 # User settings
 username: Yiwei Zhang
